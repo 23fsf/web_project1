@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    background-color: #0b1b44;
+    background-image: url("./back/backy2.jpg");
+  }
+  
+  h1 {
+    font-size: 5rem;
+    color: #0f8bd3;
+    text-shadow: 5px 0 #f03434;
+  }
+  h3 {
+    color: #0ea088;
+    text-shadow: 2px 0 #0b5499;
+  }
+  .tex{
+    position: absolute;
+    color: #c40505;
+  }
+  h2 {
+    color: #ff0000;
+    text-shadow: 2px 0 #ffffff;  
+  }
+  img {
+    position:static;
+    height: 130px;
+    width: 130px;
+    margin-top: 0%;
+    margin-left: 0%;
+  }
+  .set {
+    margin: 10% auto;
+  }
+  .drum {
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 3rem;
+    line-height: 2;
+    font-weight: 900;
+    color: #6f63b4;
+    text-shadow: 5px 0 #213035;
+    border-radius: 15px;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    background-color: rgb(39, 24, 24);
+  }
+  
